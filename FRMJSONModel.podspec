@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "JSONModel"
+  s.name         = "FRMJSONModel"
   s.version      = "1.3.0.1"
   s.summary      = "Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes."
   s.homepage     = "http://www.jsonmodel.com"
